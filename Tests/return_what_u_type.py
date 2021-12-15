@@ -1,6 +1,6 @@
 print("hello world !!!!")
 
-
+# this is a comment
 def gg():
     while True:
         mot = input("Entrez quelque chose : ")
